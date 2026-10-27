@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gregoriook.github.io/Parroquiaweb/sitemap.xml

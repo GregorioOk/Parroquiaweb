@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Mi sitio</title>
+    <link href="https://gregoriook.github.io/Parroquiaweb/feed.xml" rel="self" />
+    <link href="https://gregoriook.github.io/Parroquiaweb" />
+    <updated>1969-12-31T20:00:00-04:00</updated>
+    <author>
+        <name>Greg</name>
+    </author>
+    <id>https://gregoriook.github.io/Parroquiaweb</id>
+
+</feed>
